@@ -10,3 +10,8 @@ DEPORTES:
 	Baloncesto
 	Padel
 	Tennis
+
+FAVORITAS:
+	Indio Solari
+	Don Osvaldo
+	Los Piojos
